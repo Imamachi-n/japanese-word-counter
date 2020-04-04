@@ -7,7 +7,7 @@ GitHub Repository、Google Docs、Google Slides、Google Forms 内の日本語�
 いずれのスクリプトも、計算結果を TSV 形式で標準出力します（以下の通り）。
 
 ```
-# ファイル名	日本語文字数	カウントした日本語文字	自動生成したURL
+# ファイル名	文字数	カウントした日本語文字	自動生成したURL
 React JP	2047	コンポーネント指向...	https://docs.google.com/document/d/XXX
 Redux JP	3282	状態管理を行うのに...	https://docs.google.com/document/d/YYY
 Lerna JP	1092	モノレポ環境を構築...	https://docs.google.com/document/d/ZZZ
