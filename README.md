@@ -122,6 +122,14 @@ python3 JPWordChecker4GDocs.py > Docs_count.tsv
 <img src="img/google_forms.png" alt="google_forms" title="google_forms" width="300">
 
 2. `JPWordChecker4PDF.py` ファイルの Line16-22 のリストに、解析対象の Google Forms の ID とダウンロードした PDF ファイル名を書き込む（`https://docs.google.com/forms/d/xxx/edit` の「**xxx**」が Forms ID になります）。
+
+```py
+input_path_list = [["FORMS_ID_XXX", 'React JP - Google フォーム.pdf'],
+                   ["FORMS_ID_YYY", 'Redux JP - Google フォーム.pdf'],
+                   ["FORMS_ID_ZZZ", 'Lerna JP - Google フォーム.pdf']
+                  ]
+```
+
 3. 以下のコマンドを実行。
 
 ```zsh
