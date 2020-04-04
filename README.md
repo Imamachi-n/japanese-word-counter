@@ -55,6 +55,13 @@ python3 JPWordChecker4Repo.py > Repo_count.tsv
 
 1. [Google Slides API - Quick Start](https://developers.google.com/slides/quickstart/python) のページに移動する。
 2. ページ内の `Enable the Google Slides API` ボタンをクリックし、自分のアカウントの認証情報を取得する。`JPWordChecker4GSlides.py` ファイルと同じディレクトリに、`credentials_slides.json` という名前で credential ファイルを保存する。
+
+```
+root/
+　├ credentials_slides.json
+　└ JPWordChecker4GSlides.py
+```
+
 3. `JPWordChecker4GSlides.py` ファイルの Line18-20 のリストに、解析対象の Presentation ID とタイトル（任意のもので OK）を書き込む（`https://docs.google.com/presentation/d/xxx/edit` の「**xxx**」が Presentation ID になります）。
 
 ```py
@@ -90,6 +97,13 @@ python3 JPWordChecker4GSlides.py > Slides_count.tsv
 
 1. [Google Docs API - Quick Start](https://developers.google.com/docs/api/quickstart/python) のページに移動する。
 2. ページ内の `Enable the Google Docs API` ボタンをクリックし、自分のアカウントの認証情報を取得する。`JPWordChecker4GDocs.py` ファイルと同じディレクトリに、`credentials_docs.json` という名前で credential ファイルを保存する。
+
+```
+root/
+　├ credentials_docs.json
+　└ JPWordChecker4GDocs.py
+```
+
 3. `JPWordChecker4GDocs.py` ファイルの Line18-20 のリストに、解析対象の Document ID とタイトル（任意のもので OK）を書き込む（`https://docs.google.com/document/d/xxx/edit` の「**xxx**」が Document ID になります）。
 
 ```py
