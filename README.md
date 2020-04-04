@@ -134,7 +134,7 @@ input_path_list = [["FORMS_ID_XXX", 'React JP - Google フォーム.pdf'],
 
 ```zsh
 # 必要なライブラリをインストール
-pip3 install pdfminer.six
+sudo pip3 install pdfminer.six
 
 # スクリプトの実行
 python3 JPWordChecker4PDF.py > Forms_count.tsv
