@@ -84,7 +84,7 @@ python3 JPWordChecker4GSlides.py > Slides_count.tsv
 
 <img src="img/google_slides_token3.png" alt="google_slides_token3" title="google_slides_token3" width="300">
 
-1. `testS_count.tsv` ファイルの中身を Excel やスプレットシートなどにコピペして、リストとして見ることもできる。
+6. `testS_count.tsv` ファイルの中身を Excel やスプレットシートなどにコピペして、リストとして見ることもできる。
 
 ## Google Docs
 
