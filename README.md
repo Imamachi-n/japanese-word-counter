@@ -78,13 +78,13 @@ python3 JPWordChecker4GSlides.py > Slides_count.tsv
 
 5. 初回のみ、Web ブラウザが開き、認証を求めてくるのでアクセスを許可する。`詳細を表示`をクリックし、`Quickstart（安全ではないページ）に移動`をクリックする。後は指示通りに、許可をクリックする（この処理により、OAuth 認証用のトークンが発行され、ディレクトリに tokenSlides.pickle が生成される）。
 
-![google_slides_token1](img/google_slides_token.png)
+<img src="img/google_slides_token1.png" alt="google_slides_token1" title="google_slides_token1" width="300">
 
 <img src="img/google_slides_token2.png" alt="google_slides_token2" title="google_slides_token2" width="300">
 
 <img src="img/google_slides_token3.png" alt="google_slides_token3" title="google_slides_token3" width="300">
 
-6. `testS_count.tsv` ファイルの中身を Excel やスプレットシートなどにコピペして、リストとして見ることもできる。
+1. `testS_count.tsv` ファイルの中身を Excel やスプレットシートなどにコピペして、リストとして見ることもできる。
 
 ## Google Docs
 
