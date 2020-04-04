@@ -12,6 +12,19 @@ Redux JP	3282	状態管理を行うのに...	https://docs.google.com/document/d/
 Lerna JP	1092	モノレポ環境を構築...	https://docs.google.com/document/d/ZZZ
 ```
 
+**目次**
+
+<!-- TOC -->
+
+- [japanese-word-counter](#japanese-word-counter)
+  - [Requirements](#requirements)
+  - [GitHub Repository 内のファイル](#github-repository-%e5%86%85%e3%81%ae%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab)
+  - [Google Slides](#google-slides)
+  - [Google Docs](#google-docs)
+  - [Google Forms](#google-forms)
+
+<!-- /TOC -->
+
 ## Requirements
 
 **python2 では実行できないので、注意！**
